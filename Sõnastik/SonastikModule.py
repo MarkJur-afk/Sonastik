@@ -1,5 +1,4 @@
 ﻿import random
-from statistics import correlation
 
 sonastik = {"koer": "собака", "kass": "кот", "lind": "птица", "jänes": "кролик", "karu": "медведь",}
 
